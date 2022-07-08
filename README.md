@@ -1,5 +1,5 @@
 # typeScript
-## Curao TypeScript - TS
+## Curso TypeScript - TS
 Conteúdos vistos:
 - Tipos = string, boolean, number...
 - inferencia x annotation
